@@ -1,11 +1,16 @@
 _repo: The-Clock-and-the-Key_54888
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54888-h/images/cover.jpg
 creator:
   author:
     agent_name: Vesey, Arthur Henry
     gutenberg_agent_id: '48092'
     url: http://www.gutenberg.org/2009/agents/48092
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54888#The-Clock-and-the-Key
 gutenberg_issued: '2017-06-11'
 gutenberg_type: Text
 identifiers:
